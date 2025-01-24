@@ -1,0 +1,229 @@
+.logo {
+    position: fixed;
+    width: 200px;
+    height: 35px;
+    margin: 0 auto;
+    display: block;
+    font-size: 100px;
+    padding-left: 110px;
+    top: 10px;
+}
+.app{
+    position: fixed;
+    width: 200px;
+    height: 35px;
+    margin: 0 auto;
+    display: block;
+    padding-left: 20px;
+    top: 75px;
+    size: 50px;
+    border-radius: 15px;
+    left: 620px;
+    align-content: center;
+    background-color: #fefefe;
+}
+.reisplaner{
+    position: fixed;
+    width: 800px;
+    height: 75px;
+    margin: 0 auto;
+    padding-left: 850px;
+    top: 65px;
+    size: 400px;
+}
+.unterkunft{
+    position: fixed;
+    width: 800px;
+    height: 75px;
+    margin: 0 auto;
+    padding-left: 940px;
+    top: 65px;
+    size: 400px;
+}
+.meine{
+    position: fixed;
+    width: 800px;
+    height: 75px;
+    margin: 0 auto;
+    padding-left: 1110px;
+    top: 65px;
+    size: 400px;
+}
+.hilfe{
+    position: fixed;
+    width: 800px;
+    height: 75px;
+    margin: 0 auto;
+    padding-left: 1220px;
+    top: 65px;
+    size: 400px;
+}
+.anmelden{
+    position: fixed;
+    width: 800px;
+    height: 75px;
+    margin: 0 auto;
+    padding-left: 1280px;
+    top: 65px;
+    size: 400px;
+}
+.mainImage{
+    position: fixed;
+    width: 2000px;
+    height: 500px;
+    margin: 0 auto;
+    display: block;
+    padding-left: 0px;
+    top: 125px;
+    size: 400px;
+}
+.alles{
+    position: fixed;
+    width: 800px;
+    height: 175px;
+    margin: 0 auto;
+    padding-left: 80px;
+    top: 305px;
+    font-size: 50px;
+    color: #fefefe;
+    size: 400px;
+}
+.parentButton{
+    position: fixed;
+    width: 1380px;
+    height: 75px;
+    margin: 0 auto;
+    display: block;
+    left: 70px;
+    top: 388px;
+    size: 400px;
+    border-radius: 20px;
+}
+.childButton1{
+    position: fixed;
+    width: 370px;
+    height: 50px;
+    margin: 0 auto;
+    display: block;
+    left: 90px;
+    top: 400px;
+    size: 250px;
+    border-radius: 10px;
+}
+.childButton2{
+    position: fixed;
+    width: 380px;
+    height: 50px;
+    margin: 0 auto;
+    display: block;
+    left: 500px;
+    top: 400px;
+    size: 250px;
+    border-radius: 10px;
+    align-content: baseline;
+}
+.childButton3{
+    position: fixed;
+    width: 370px;
+    height: 50px;
+    margin: 0 auto;
+    display: block;
+    left: 920px;
+    top: 400px;
+    size: 250px;
+    border-radius: 10px;
+}
+.childButton4{
+    position: fixed;
+    width: 120px;
+    height: 50px;
+    margin: 0 auto;
+    display: block;
+    left: 1310px;
+    top: 400px;
+    size: 250px;
+    border-radius: 25px;
+    background-color:#050f29
+}
+.suchen{
+    color: #fefefe;
+    font-size: large;
+}
+.download{
+    position: fixed;
+    width: 24px;
+    height: 24px;
+    left: 630px;
+    top: 80px;
+}
+.location{
+    position: fixed;
+    width: 35px;
+    height: 30px;
+    left: 110px;
+    top: 411px;
+    size: 40px;
+}
+.date{
+    position: fixed;
+    width: 35px;
+    height: 30px;
+    left: 520px;
+    top: 411px;
+    size: 40px;
+}
+.guest{
+    position: fixed;
+    width: 35px;
+    height: 30px;
+    left: 940px;
+    top: 413px;
+    size: 40px;
+}
+.herunterladen{
+    position: fixed;
+    width: 200px;
+    height: 10px;
+    left: 630px;
+    top: 70px;
+    font-size: 15px;
+    size: 20px;
+}
+.hingen{
+    position: fixed;
+    width: 200px;
+    height: 30px;
+    left: 150px;
+    top: 397px;
+    font-size: 20px;
+    size: 30px;
+}
+
+.realDates{
+    position: fixed;
+    width: 200px;
+    height: 30px;
+    left: 530px;
+    top: 405px;
+    font-size: 18px;
+    size: 30px;
+}
+.realGuests{
+    position: fixed;
+    width: 200px;
+    height: 30px;
+    left: 925px;
+    top: 405px;
+    font-size: 18px;
+    size: 30px;
+}
+.dates{
+    position: fixed;
+    top: 390px;
+    left: 570px;
+}
+.guests{
+    position: fixed;
+    top: 390px;
+    left: 980px;
+}
