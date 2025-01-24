@@ -1,3 +1,6 @@
+#container{
+    height:10000px;
+}
 .logo {
     position: fixed;
     width: 200px;
@@ -285,10 +288,11 @@
     height: 30px;
     left: 75px;
     top: 770px;
-    font-size: 35px;
+    font-size: 30px;
     size: 50px;
     color: #0b0505;
     font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .finde{
     position: fixed;
@@ -296,10 +300,23 @@
     height: 30px;
     left: 75px;
     top: 1100px;
-    font-size: 35px;
+    font-size: 30px;
     size: 50px;
     color: #0b0505;
     font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.stobere{
+    position: fixed;
+    width: 800px;
+    height: 30px;
+    left: 75px;
+    top: 1720px;
+    font-size: 30px;
+    size: 50px;
+    color: #0b0505;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .city1{
     position: fixed;
@@ -406,6 +423,144 @@
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
 }
+.house1{
+    position: fixed;
+    width: 350px;
+    height: 460px;
+    top: 1200px;
+    left: 75px;
+    border-radius: 15px;
+}
+.house2{
+    position: fixed;
+    width: 350px;
+    height: 460px;
+    top: 1200px;
+    left: 450px;
+    border-radius: 15px;
+}
+.house3{
+    position: fixed;
+    width: 350px;
+    height: 460px;
+    top: 1200px;
+    left: 825px;
+    border-radius: 15px;
+}
+.house4{
+    position: fixed;
+    width: 350px;
+    height: 460px;
+    top: 1200px;
+    left: 1200px;
+    border-radius: 15px;
+}
+.house5{
+    position: fixed;
+    width: 350px;
+    height: 460px;
+    top: 1200px;
+    left: 1590px;
+    border-radius: 15px;
+}
+.attic{
+    position: fixed;
+    width: 450px;
+    height: 250px;
+    left: 75px;
+    top: 1810px;
+    border-radius: 15px;
+}
+.cottage{
+    position: fixed;
+    width: 450px;
+    height: 250px;
+    left: 550px;
+    top: 1810px;
+    border-radius: 15px;
+}
+.livingroom{
+    position: fixed;
+    width: 450px;
+    height: 250px;
+    left: 1025px;
+    top: 1810px;
+    border-radius: 15px;
+}
+.chair{
+    position: fixed;
+    width: 450px;
+    height: 250px;
+    left: 1500px;
+    top: 1810px;
+    border-radius: 15px;
+}
+.view{
+    position: fixed;
+    width: 920px;
+    height: 450px;
+    left: 75px;
+    top: 2330px;
+    font-size: 18px;
+    color: #0b0505;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.pool{
+    position: fixed;
+    width: 920px;
+    height: 450px;
+    left: 1040px;
+    top: 2330px;
+    font-size: 18px;
+    color: #0b0505;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.can{
+    position: fixed;
+    width: 350px;
+    height: 250px;
+    left: 75px;
+    top: 2790px;
+    font-size: 18px;
+    color: #0b0505;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.garden{
+    position: fixed;
+    width: 350px;
+    height: 250px;
+    left: 550px;
+    top: 2900px;
+    font-size: 18px;
+    color: #0b0505;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.view2{
+    position: fixed;
+    width: 350px;
+    height: 250px;
+    left: 1025px;
+    top: 2900px;
+    font-size: 18px;
+    color: #0b0505;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.night{
+    position: fixed;
+    width: 350px;
+    height: 250px;
+    left: 1500px;
+    top: 2900px;
+    font-size: 18px;
+    color: #0b0505;
+    font-weight: 700;
+    border-radius: 10px;
+}
 .cityName1{
     position: fixed;
     width: 350px;
@@ -455,4 +610,736 @@
     font-size: 18px;
     color: #0b0505;
     font-weight: 700;
+}
+.ferienhaus{
+    position: fixed;
+    width: 350px;
+    height: 200px;
+    left: 95px;
+    top: 1590px;
+    font-size: 25px;
+    color: #fefefe;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ferienhutte{
+    position: fixed;
+    width: 350px;
+    height: 200px;
+    left: 460px;
+    top: 1590px;
+    font-size: 25px;
+    color: #fefefe;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.chalet{
+    position: fixed;
+    width: 350px;
+    height: 200px;
+    left: 835px;
+    top: 1590px;
+    font-size: 25px;
+    color: #e4dede;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ferienwohung{
+    position: fixed;
+    width: 350px;
+    height: 200px;
+    left: 1210px;
+    top: 1590px;
+    font-size: 25px;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.landhaus{
+    position: fixed;
+    width: 350px;
+    height: 200px;
+    left: 1600px;
+    top: 1590px;
+    font-size: 25px;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.angebote{
+    position: fixed;
+    width: 500px;
+    height: 18px;
+    left: 75px;
+    top: 1750px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.till{
+    position: fixed;
+    width: 500px;
+    height: 18px;
+    left: 323px;
+    top: 1753px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rating1{
+    position: fixed;
+    width: 50px;
+    height: 30px;
+    left: 75px;
+    top: 2080px;
+    font-size: 18px;
+    size: 10px;
+    background-color: #0b6d1b;
+    border-radius: 5px;
+    border: 1px;
+
+}
+.rating2{
+    position: fixed;
+    width: 50px;
+    height: 30px;
+    left: 550px;
+    top: 2080px;
+    font-size: 18px;
+    size: 10px;
+    background-color: #0b6d1b;
+    border-radius: 5px;
+    border: 1px;
+}
+.rating3{
+    position: fixed;
+    width: 50px;
+    height: 30px;
+    left: 1025px;
+    top: 2080px;
+    font-size: 18px;
+    size: 10px;
+    background-color: #0b6d1b;
+    border-radius: 5px;
+    border: 1px;
+}
+.rating4{
+    position: fixed;
+    width: 50px;
+    height: 30px;
+    left: 1500px;
+    top: 2080px;
+    font-size: 18px;
+    size: 10px;
+    background-color: #0b6d1b;
+    border-radius: 5px;
+    border: 1px;
+}
+.rating5{
+    position: fixed;
+    width: 50px;
+    height: 30px;
+    left: 75px;
+    top: 2130px;
+    font-size: 18px;
+    size: 10px;
+    background-color: #0b6d1b;
+    border-radius: 5px;
+    border: 1px;
+}
+.rating6{
+    position: fixed;
+    width: 50px;
+    height: 30px;
+    left: 550px;
+    top: 2130px;
+    font-size: 18px;
+    size: 10px;
+    background-color: #0b6d1b;
+    border-radius: 5px;
+    border: 1px;
+}
+.rating7{
+    position: fixed;
+    width: 50px;
+    height: 30px;
+    left: 1025px;
+    top: 2130px;
+    font-size: 18px;
+    size: 10px;
+    background-color: #0b6d1b;
+    border-radius: 5px;
+    border: 1px;
+}
+.rating8{
+    position: fixed;
+    width: 50px;
+    height: 30px;
+    left: 1500px;
+    top: 2130px;
+    font-size: 18px;
+    size: 10px;
+    background-color: #0b6d1b;
+    border-radius: 5px;
+    border: 1px;
+}
+.num1{
+    position: fixed;
+    width: 50px;
+    height: 28px;
+    left: 75px;
+    top: 2067px;
+    font-size: 18px;
+    size: 10px;
+    color: #fefefe;
+}
+.num2{
+    position: fixed;
+    width: 50px;
+    height: 28px;
+    left: 550px;
+    top: 2067px;
+    font-size: 18px;
+    size: 10px;
+    color: #fefefe;
+}
+.num3{
+    position: fixed;
+    width: 50px;
+    height: 28px;
+    left: 1025px;
+    top: 2067px;
+    font-size: 18px;
+    size: 10px;
+    color: #fefefe;
+}
+.num4{
+    position: fixed;
+    width: 50px;
+    height: 28px;
+    left: 1500px;
+    top: 2067px;
+    font-size: 18px;
+    size: 10px;
+    color: #fefefe;
+}
+.num5{
+    position: fixed;
+    width: 50px;
+    height: 28px;
+    left: 75px;
+    top: 2117px;
+    font-size: 18px;
+    size: 10px;
+    color: #fefefe;
+}
+.num6{
+    position: fixed;
+    width: 50px;
+    height: 28px;
+    left: 550px;
+    top: 2117px;
+    font-size: 18px;
+    size: 10px;
+    color: #fefefe;
+}
+.num7{
+    position: fixed;
+    width: 50px;
+    height: 28px;
+    left: 1025px;
+    top: 2117px;
+    font-size: 18px;
+    size: 10px;
+    color: #fefefe;
+}
+.num8{
+    position: fixed;
+    width: 50px;
+    height: 28px;
+    left: 1500px;
+    top: 2117px;
+    font-size: 18px;
+    size: 10px;
+    color: #fefefe;
+}
+.bewertung1{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 140px;
+    top: 2067px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bewertung2{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 615px;
+    top: 2067px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bewertung3{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1090px;
+    top: 2067px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bewertung4{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1565px;
+    top: 2067px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bewertung5{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 140px;
+    top: 2117px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bewertung6{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 615px;
+    top: 2117px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bewertung7{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1090px;
+    top: 2117px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bewertung8{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1565px;
+    top: 2117px;
+    font-size: 20px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brackets1{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 330px;
+    top: 2070px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brackets2{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 805px;
+    top: 2070px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brackets3{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1280px;
+    top: 2070px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brackets4{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1755px;
+    top: 2070px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brackets5{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 330px;
+    top: 2120px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brackets6{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 805px;
+    top: 2120px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brackets7{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1280px;
+    top: 2120px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.brackets8{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1755px;
+    top: 2120px;
+    font-size: 18px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fur{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 75px;
+    top: 2125px;
+    font-size: 19px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fur2{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 550px;
+    top: 2125px;
+    font-size: 17px;
+    size: 5px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fur3{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1025px;
+    top: 2125px;
+    font-size: 17px;
+    size: 5px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.fur4{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1500px;
+    top: 2125px;
+    font-size: 17px;
+    size: 5px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sonne{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 75px;
+    top: 2135px;
+    font-size: 17px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sonne2{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 550px;
+    top: 2155px;
+    font-size: 17px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sonne3{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1025px;
+    top: 2155px;
+    font-size: 17px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sonne4{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1500px;
+    top: 2155px;
+    font-size: 17px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.totalprice1{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 75px;
+    top: 2180px;
+    font-size: 19px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.totalprice2{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 550px;
+    top: 2180px;
+    font-size: 19px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.totalprice3{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1025px;
+    top: 2180px;
+    font-size: 19px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.totalprice4{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1500px;
+    top: 2180px;
+    font-size: 19px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pernight1{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 75px;
+    top: 2210px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pernight2{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 550px;
+    top: 2210px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pernight3{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1025px;
+    top: 2210px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pernight4{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1500px;
+    top: 2210px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.region1{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 75px;
+    top: 2230px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.region2{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 550px;
+    top: 2230px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.region3{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1025px;
+    top: 2230px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.region4{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1500px;
+    top: 2230px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.endlich{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 75px;
+    top: 2790px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.top{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1040px;
+    top: 2790px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Gemeinsame{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 75px;
+    top: 2820px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.buche{
+    position: fixed;
+    width: 350px;
+    height: 30px;
+    left: 1040px;
+    top: 2820px;
+    font-size: 15px;
+    size: 10px;
+    color: #0b0505;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
